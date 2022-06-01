@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/radiostation/static/css/main.83dafa63.css",
+    "main.js": "/radiostation/static/js/main.495a5911.js",
+    "static/media/radio-logo.png": "/radiostation/static/media/radio-logo.2f7319260e9c36bf889e.png",
+    "index.html": "/radiostation/index.html",
+    "main.83dafa63.css.map": "/radiostation/static/css/main.83dafa63.css.map",
+    "main.495a5911.js.map": "/radiostation/static/js/main.495a5911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83dafa63.css",
+    "static/js/main.495a5911.js"
+  ]
+}
